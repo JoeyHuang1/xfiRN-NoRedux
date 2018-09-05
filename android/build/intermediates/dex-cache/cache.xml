@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/joey/.android/build-cache/5ab07f82e1bbb182f96b73e11ea6b7602eb388be/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/joey/react/native/comcast/xfiNoRedux/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2238b7dd172b3df4c2f6e632806b98630911b5dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joey/.android/build-cache/5ab07f82e1bbb182f96b73e11ea6b7602eb388be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/joey/react/native/comcast/xfiNoRedux/android/app/build/intermediates/pre-dexed/debug/classes_565520f92136671d5cee3af11288bc88f1de05f0.jar" />
+    </item>
+
+</items>
